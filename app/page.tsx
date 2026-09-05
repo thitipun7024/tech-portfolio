@@ -62,9 +62,9 @@ export default function HomePage() {
             </div>
             <div className="core">
               <div className="core-ring" />
-              <span>FULL</span>
-              <strong>STACK</strong>
-              <small>ENGINEER</small>
+              <span>UX / UI</span>
+              <strong>FRONTEND</strong>
+              <small>DEVELOPER</small>
             </div>
             <div className="hud-label top">NODE_01 / ACTIVE</div>
             <div className="hud-label bottom">BUILD · SHIP · SCALE</div>
