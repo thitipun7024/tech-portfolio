@@ -3,7 +3,7 @@ import "./globals.css";
 import Shell from "@/components/Shell";
 
 export const metadata: Metadata = {
-  title: "SAK/DEV — Full Stack & Infrastructure Engineer",
+  title: "THITIPUN/DEV — Full Stack & Infrastructure Engineer",
   description: "Tech portfolio for a full-stack developer, systems engineer, and builder.",
 };
 

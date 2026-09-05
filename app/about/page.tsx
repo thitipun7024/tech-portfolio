@@ -25,7 +25,7 @@ export default function AboutPage() {
           <h2>More than writing code.</h2>
           <p>I enjoy solving problems end-to-end: shaping architecture, designing UI, writing APIs, tuning databases, deploying workloads and troubleshooting production environments.</p>
           <p>That range helps me make practical trade-offs. I can speak with product teams about user experience, with backend teams about data flows, and with infrastructure teams about reliability and deployment.</p>
-          <div className="signature">SAK/DEV <span>⌁</span></div>
+          <div className="signature">THITIPUN/DEV <span>⌁</span></div>
         </article>
 
         <article className="radar-card glass-panel">

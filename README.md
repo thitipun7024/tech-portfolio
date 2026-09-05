@@ -1,4 +1,4 @@
-# SAK/DEV Tech Portfolio
+# THITIPUN/DEV Tech Portfolio
 
 A 5-page futuristic portfolio built with Next.js 16, React 19, TypeScript and zero UI-library dependencies.
 
@@ -37,7 +37,7 @@ npm run build
 
 Search and replace these placeholders:
 
-- `SAK/DEV`
+- `THITIPUN/DEV`
 - `your.email@example.com`
 - GitHub / LinkedIn / Resume `href="#"`
 - Project descriptions and experience text
