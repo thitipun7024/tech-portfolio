@@ -19,7 +19,7 @@ export default function Navbar() {
   return (
     <header className="nav-shell">
       <Link href="/" className="brand" onClick={() => setOpen(false)}>
-        <span className="brand-mark">SAK</span>
+        <span className="brand-mark">THITIPUN</span>
         <span className="brand-dot">/DEV</span>
       </Link>
 
